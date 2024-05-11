@@ -1,2 +1,2 @@
 # lwSpit
- Plugin for Minecraft Server
+ Плагин на плевки
