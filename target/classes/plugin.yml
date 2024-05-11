@@ -1,0 +1,8 @@
+name: lwSpit
+version: '1.0'
+main: lightwolf.lwspit.LwSpit
+api-version: '1.16'
+authors: [LightWolf | t.me/lightwolf]
+description: Плевки в игроков
+commands:
+  spit: {}
